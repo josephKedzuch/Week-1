@@ -352,6 +352,7 @@
 -analyzer:"/Applications/Unity/Hub/Editor/2022.3.18f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Week-1/Player.cs/Player.cs"
 "Assets/Week-2/Scripts/Calculator.cs"
+"Assets/Week-3/Scripts/GameManager.cs"
 -langversion:9.0
 
 /deterministic
